@@ -18,6 +18,6 @@ Sistema de gestão de ordem de serviços criado para comércios de Banho e Tosa 
 
 ## ✒️ Autor
 
-* **Diego Simas dos Santos** - *Engenheiro de Software* - [diegosimax](https://github.com/diegosimax)
+* **Diego Simas** - *Engenheiro de Software* - [diegosimax](https://github.com/diegosimax)
 ---
-⌨️ com ❤️ por [Diego Simas](https://gist.github.com/diegosimax) 😊
+⌨️ com ❤️ por [Diego Simas](https://github.com/diegosimax) 😊
